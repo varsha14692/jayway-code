@@ -1,8 +1,8 @@
-# Estore sales predict
+# Estore sales predict:
 
 Predict the estore sales using the Python Pandas library.
 
-# Questions for missing data
+# Questions for missing data:
 
 1. Should we remove all the missing data from dataframe?
 2. Or should we convert the missing values as a fixed value?
