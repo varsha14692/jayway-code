@@ -12,11 +12,11 @@ Predict the estore sales using the Python Pandas library.
 
 I have used Python Pandas to analyze and answer business questions about the given ecommerce sales data. The data contains InvoiceDate, InvoiceNo, StockCode, Description, Quantity, InvoiceDate, UnitPrice, CustomerID, Country, Estore_id.
 
-Below steps were performed inorder to predict the overall sales by each estore in every country. Based on the prediction, client may dis-continue less profitable estores 
+Below steps were performed inorder to predict the overall sales by each estore in every country. Based on the prediction, client may dis-continue less profitable estores. 
 
-1. Data Cleansing  
-		Removed duplicate data  
-  Based on answer of question 3, mising quantity can be managed. For now, we have removed the rows which has missing quantity.  
-2. Take the average of the total sales for each estore in each country
-3. Sort the data based on average sales
+1. Data Cleansing.  
+  -> Removed duplicate data. 
+  -> Based on answer of question 3, mising quantity can be managed. For now, we have removed the rows which has missing quantity.  
+2. Take the average of the total sales for each estore in each country.  
+3. Sort the data based on average sales.
 4. Based on the final resultset, client can predict the overall sales.
