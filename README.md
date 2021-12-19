@@ -1,14 +1,14 @@
-# Estore sales predict:
+# Estore sales predict #
 
 Predict the estore sales using the Python Pandas library.
 
-# Questions for missing data:
+# Questions for missing data #
 
 1. Should we remove all the missing data from dataframe?
 2. Or should we convert the missing values as a fixed value?
 3. Since, Quanity column contains missing values, should we take an average of quanity and predict the sales?
 
-# Background Information:
+# Background Information #
 
 I have used Python Pandas to analyze and answer business questions about the given ecommerce sales data. The data contains InvoiceDate, InvoiceNo, StockCode, Description, Quantity, InvoiceDate, UnitPrice, CustomerID, Country, Estore_id.
 
