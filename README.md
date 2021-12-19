@@ -15,7 +15,7 @@ I have used Python Pandas to analyze and answer business questions about the giv
 Below steps were performed inorder to predict the overall sales by each estore in every country. Based on the prediction, client may dis-continue less profitable estores. 
 
 1. Data Cleansing.  
-  -> Removed duplicate data. 
+  -> Removed duplicate data.  
   -> Based on answer of question 3, mising quantity can be managed. For now, we have removed the rows which has missing quantity.  
 2. Take the average of the total sales for each estore in each country.  
 3. Sort the data based on average sales.
